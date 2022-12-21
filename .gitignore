@@ -1,0 +1,10 @@
+/files/.Xil
+
+/files/*/_ide/
+/files/*_platform
+
+/Packages
+
+/.vs
+
+/build
