@@ -113,3 +113,8 @@ How to run:
 .\Debug\datastruct_thread_timer_class.exe
 .\Debug\helloworld.exe
 ```
+
+To clean:
+```
+cmake --build . --target clean
+```
